@@ -49,6 +49,12 @@ async def on_message(message):
         await message.channel.send('Ghost Recon wildlands')
     elif message.content == 'whats the season':
         await message.channel.send('autumn')
+    elif message.content == 'what game do you hate':
+        await message.channel.send('Valorant!!!!!')
+    elif message.content == 'whats your favorite show':
+        await message.channel.send('I dont have one')
+    
+
 
 
 
